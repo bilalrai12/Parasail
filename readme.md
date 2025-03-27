@@ -13,8 +13,8 @@ For Auto Start Node
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/parasail-bot.git
-   cd parasail-bot
+   git clone https://github.com/bilalrai12/Parasail.git
+   cd parasail
    ```
 
 2. Instal Packages and build packages:
