@@ -14,7 +14,7 @@ For Auto Start Node
 
    ```sh
    git clone https://github.com/bilalrai12/Parasail.git
-   cd parasail
+   cd Parasail
    ```
 
 2. Instal Packages and build packages:
